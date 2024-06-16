@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter</title>
+
+    <!-- Font Poppins-->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="app-details">
+            <img src="image/Currencee.png" class="app-icon" alt="Currency Image">
+            <h1 class="app-title">Currency Converter</h1>
+        </div>
+        <div class="app-body">
+            <h4 class="amount-text">Amount:</h4>
+            <input id="amount" class="amount-input" type="number" placeholder="Example = 20">
+            <div class="error-message" id="error-message">Please fill in the amount !!</div>
+            <div class="dropdown">
+                <select class="currency" name="" id="from-currency"></select>
+                <select class="currency" name="" id="to-currency"></select>
+            </div>
+            <button class="button" id="convert-button">CONVERT</button>
+            <p class="result" id="result">Result</p>
+        </div>
+    </div>
+    
+    <!-- Country Code Array Script -->
+    <script src="currency.js"></script>
+
+    <!-- Script for functionality -->
+    <script src="script.js"></script>
+</body>
+</html>
