@@ -14,7 +14,7 @@ A web-based currency converter application built using JavaScript. This applicat
 - JavaScript: Dynamic content and interaction.
 - API: ExchangeRate-API for fetching conversion rate between currencies.
 
-** Screenshots **
+** Preview **
 ![image](https://github.com/Nesniw/Currency-Converter/assets/109383763/efdea948-94c1-4f7c-ab12-e2e2b8b64443)
 
 
