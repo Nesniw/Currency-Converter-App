@@ -14,6 +14,9 @@ A web-based currency converter application built using JavaScript. This applicat
 - JavaScript: Dynamic content and interaction.
 - API: ExchangeRate-API for fetching conversion rate between currencies.
 
+** Screenshots **
+![Uploading image.png…]()
+
 ** Installation **
 1. Clone the repository:
    - git clone https://github.com/yourusername/currency-converter.git
