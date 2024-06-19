@@ -29,4 +29,4 @@ To fetch conversion rate data, you need an API key from ExchangeRate-API. Follow
 
     1. Go to ExchangeRate-API and sign up for an API key.
     2. Replace YOUR_API_KEY in the script.js file with your actual API key:
-        - let api = 'https://v6.exchangerate-api.com/v6/YOUR_API_KEY/latest/USD';;
+        - let api = 'https://v6.exchangerate-api.com/v6/YOUR_API_KEY/latest/USD';
