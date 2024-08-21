@@ -28,7 +28,7 @@ Follow these steps to set up and run the project locally:
     cd currency-converter
     ```
     
-2. **Setup API Key**
+2. **Setup API Key** \
    To fetch conversion rate data, you need an API key from ExchangeRate-API. Follow these steps: 
 
    - Go to ExchangeRate-API and sign up for an API key.
