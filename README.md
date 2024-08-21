@@ -29,21 +29,19 @@ Follow these steps to set up and run the project locally:
     ```
     
 2. **Setup API Key**
-   To fetch conversion rate data, you need an API key from ExchangeRate-API. Follow these steps:
+   To fetch conversion rate data, you need an API key from ExchangeRate-API. Follow these steps: 
 
-   1. Go to ExchangeRate-API and sign up for an API key.
-   2. Replace YOUR_API_KEY in the script.js file with your actual API key:
+   - Go to ExchangeRate-API and sign up for an API key.
+   - Replace YOUR_API_KEY in the script.js file with your actual API key:
    ```bash
    let api = 'https://v6.exchangerate-api.com/v6/YOUR_API_KEY/latest/USD';
    ```
 3. **open index.html from your local folder**
 
-## Author
-
-Winsen Wiradinata \
-Email: winsenwiradinata@gmail.com \
-LinkedIn: https://www.linkedin.com/in/winsen-wiradinata/
-
 ## Thank You
 
 Thank you for visiting Currencee! 😊
+
+By Winsen Wiradinata \
+Email: winsenwiradinata@gmail.com \
+LinkedIn: https://www.linkedin.com/in/winsen-wiradinata/
