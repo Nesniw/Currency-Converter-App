@@ -43,6 +43,6 @@ Follow these steps to set up and run the project locally:
 
 Thank you for visiting Currencee! 😊
 
-By Winsen Wiradinata \
-Email: winsenwiradinata@gmail.com \
-LinkedIn: https://www.linkedin.com/in/winsen-wiradinata/
+By Winsen Wiradinata <br> <br>
+<a href="https://www.linkedin.com/in/winsen-wiradinata/"><img src="https://img.shields.io/badge/-Winsen%20Wiradinata-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:winsenwiradinata@gmail.com"><img src="https://img.shields.io/badge/-winsenwiradinata@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
